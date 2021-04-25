@@ -1,0 +1,24 @@
+{
+  "name": "lighthouse",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "lighthouse": "lighthouse-batch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iemong/lighthouse.git"
+  },
+  "author": "",
+  "license": " MIT",
+  "bugs": {
+    "url": "https://github.com/iemong/lighthouse/issues"
+  },
+  "homepage": "https://github.com/iemong/lighthouse#readme",
+  "dependencies": {
+    "lighthouse": "^7.3.0",
+    "lighthouse-batch": "^7.1.0"
+  },
+  "description": ""
+}
