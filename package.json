@@ -4,7 +4,8 @@
   "main": "index.js",
   "devDependencies": {},
   "scripts": {
-    "lighthouse": "lighthouse-batch"
+    "lighthouse": "lighthouse-batch",
+    "sort": "deno run --allow-read --allow-write main.ts"
   },
   "repository": {
     "type": "git",
